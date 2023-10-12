@@ -1,6 +1,6 @@
-  👋 Hi, I’m @felipelukasz 🇧🇷
+  👋 Hi, I’m @felipelukasz
   👀 I’m interested in discover new areas in technology, and improving my english skills
-  🌱 I’m currently studying computer science at UEL, Londrina - Paraná 🇧🇷
+  🌱 I’m currently studying computer science at UEL, Londrina, Paraná, Brazil
   
   📫 How to reach me:
   institucional e-mail: felipe_guilhen@uel.br
